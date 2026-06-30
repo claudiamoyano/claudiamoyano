@@ -31,7 +31,7 @@
 
 ---
 
-## 🌷͙֒ Sobre mí
+## 🌷 Sobre mí
 
 <table align="center">
   <tr>
