@@ -31,7 +31,7 @@
 
 ---
 
-## ✨ Sobre mí
+## 🌷͙֒ Sobre mí
 
 <table align="center">
   <tr>
@@ -62,7 +62,7 @@
 
 ---
 
-## 🌟 Proyectos
+## 💻 Proyectos
 
 <table align="center">
   <tr>
